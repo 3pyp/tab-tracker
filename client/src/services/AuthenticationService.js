@@ -5,8 +5,3 @@ export default {
     return Api().post('register', credentials)
   }
 }
-
-// AthenticationService.register({
-//     email: 'testing@gmail.com'
-//     password: '123456'
-// })
